@@ -153,7 +153,7 @@ ubuntu-drivers-common==0.0.0
 udemy-enroller==3.1.0
 ufw==0.36
 unattended-upgrades==0.1
-urllib3==1.25.8
+urllib3==1.26.19
 usb-creator==0.3.7
 virtualenv==20.0.17
 virtualenv-clone==0.3.0
